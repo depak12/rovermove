@@ -1,0 +1,8 @@
+C:\Test\MarsRoverTestProject\RoverRoveTestProj\bin\Debug\RoverRoveTestProj.dll
+C:\Test\MarsRoverTestProject\RoverRoveTestProj\bin\Debug\RoverRoveTestProj.pdb
+C:\Test\MarsRoverTestProject\RoverRoveTestProj\bin\Debug\MarsRoverTestProject.exe
+C:\Test\MarsRoverTestProject\RoverRoveTestProj\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Test\MarsRoverTestProject\RoverRoveTestProj\bin\Debug\MarsRoverTestProject.pdb
+C:\Test\MarsRoverTestProject\RoverRoveTestProj\obj\Debug\RoverRoveTestProj.csprojResolveAssemblyReference.cache
+C:\Test\MarsRoverTestProject\RoverRoveTestProj\obj\Debug\RoverRoveTestProj.dll
+C:\Test\MarsRoverTestProject\RoverRoveTestProj\obj\Debug\RoverRoveTestProj.pdb

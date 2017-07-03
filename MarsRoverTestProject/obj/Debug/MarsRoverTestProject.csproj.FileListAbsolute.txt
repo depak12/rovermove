@@ -1,0 +1,5 @@
+C:\Test\MarsRoverTestProject\MarsRoverTestProject\bin\Debug\MarsRoverTestProject.exe.config
+C:\Test\MarsRoverTestProject\MarsRoverTestProject\bin\Debug\MarsRoverTestProject.exe
+C:\Test\MarsRoverTestProject\MarsRoverTestProject\bin\Debug\MarsRoverTestProject.pdb
+C:\Test\MarsRoverTestProject\MarsRoverTestProject\obj\Debug\MarsRoverTestProject.exe
+C:\Test\MarsRoverTestProject\MarsRoverTestProject\obj\Debug\MarsRoverTestProject.pdb
